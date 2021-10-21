@@ -1,0 +1,6 @@
+{
+  "name": "stencilbug/hydrate",
+  "description": "stencilbug component hydration app.",
+  "main": "index.js",
+  "types": "index.d.ts"
+}
